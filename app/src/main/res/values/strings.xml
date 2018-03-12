@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+
+    <string name="recents">RECENTS</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="nearby">Nearby</string>
+</resources>
